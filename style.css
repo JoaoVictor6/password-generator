@@ -110,7 +110,10 @@ section {
   justify-self: center;
   bottom: 28px;
   transform: translateY(200%);
-  /* animation: pop 2s linear; */
+}
+
+.popup-animation {
+  animation: pop 2s linear;
 }
 
 @keyframes pop {
